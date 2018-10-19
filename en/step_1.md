@@ -1,25 +1,21 @@
-## Introduction
+## Make a list
 
-Add project description here. What will learners be making?
++ Click on **Make a List** under **Variables**.
 
-### What you will make
+![Make a list](images/make-a-list-annotated.png)
 
-Add something here to showcase here, for example:
++ Type in the name of your list. You can choose whether you would like your list to be available to all sprites, or to only a specific sprite. Click **OK**.
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
+![List name](images/list-name.png)
 
-Add instructions here. These should explain either how the finished project will work, or explain how to interact with the content above.
++ Once you have created the list, it will be displayed on the stage, or you can untick the list in the Scripts tab to hide it.
 
-### What you will learn
+![List show/hide](images/list-show-hide-annotated.png)
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
++ Click the `+` at the bottom of the list to add items, and click the cross next to an item to delete it.
 
-+ [Add curriculum strand/level description.](https://www.raspberrypi.org/curriculum/strand/level){:target="_blank"}
+![List show/hide](images/list-add-delete-annotated.png)
 
-### Additional information for educators
++ New blocks will appear and allow you to use your new list in your project.
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
-
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+![List blocks](images/list-blocks.png)
