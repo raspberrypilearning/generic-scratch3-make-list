@@ -1,7 +1,7 @@
 ---
-title: Make a list
+title: Erstelle eine Liste
 hero_image: images/banner.png
-description: Make a new list
+description: Erstelle eine neue Liste
 theme: red
 duration: 1
 listed: false
@@ -13,4 +13,4 @@ technologies: "scratch"
 site_areas:
 steps:
   - 
-    title: Make a list
+    title: Erstelle eine Liste
