@@ -1,7 +1,7 @@
 ---
-title: Make a list
-hero_image: images/banner.png
-description: Make a new list
+title: Bir liste yapın
+hero_image: images / banner.png
+description: Yeni bir liste yapın
 theme: red
 duration: 1
 listed: false
@@ -9,8 +9,8 @@ ingredient: true
 copyedit: true
 curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
 interests: ""
-technologies: "scratch"
+technologies: "çizik"
 site_areas:
 steps:
   - 
-    title: Make a list
+    title: Bir liste yapın
