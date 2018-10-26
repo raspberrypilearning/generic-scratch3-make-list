@@ -1,21 +1,21 @@
-## Make a list
+## یک لیست ایجاد کنید
 
 + Click on **Make a List** under **Variables**.
 
-![Make a list](images/make-a-list-annotated.png)
+![یک لیست ایجاد کنید](images/make-a-list-annotated.png)
 
 + Type in the name of your list. You can choose whether you would like your list to be available to all sprites, or to only a specific sprite. Click **OK**.
 
-![List name](images/list-name.png)
+![نام لیست](images/list-name.png)
 
-+ Once you have created the list, it will be displayed on the stage, or you can untick the list in the Scripts tab to hide it.
++ هنگامی که لیست را ایجاد کردید، در طبقه نمایش داده می‌شود، یا می‌توانید با برداشتن علامت آن در برگه اسکریپت ها،آن را پنهان کنید.
 
-![List show/hide](images/list-show-hide-annotated.png)
+![نمایش/پنهان کردن لیست](images/list-show-hide-annotated.png)
 
-+ Click the `+` at the bottom of the list to add items, and click the cross next to an item to delete it.
++ در پایین لیست برای اضافه کردن موارد، بر روی `+` کلیک کنید و برای حذف یک مورد، بر روی ضربدر کنار آن کلیک کنید.
 
-![List show/hide](images/list-add-delete-annotated.png)
+![نمایش/پنهان کردن لیست](images/list-add-delete-annotated.png)
 
-+ New blocks will appear and allow you to use your new list in your project.
++ بلوک‌های جدید ظاهر می‌شود و به شما اجازه می‌دهد که از لیست جدید خود در پروژه‌ی خود استفاده کنید.
 
-![List blocks](images/list-blocks.png)
+![بلوک‌های لیست](images/list-blocks.png)
