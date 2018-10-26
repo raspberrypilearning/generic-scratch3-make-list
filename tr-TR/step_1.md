@@ -1,21 +1,21 @@
-## Make a list
+## Bir liste yapın
 
 + Click on **Make a List** under **Variables**.
 
-![Make a list](images/make-a-list-annotated.png)
+![Bir liste yapın](images/make-a-list-annotated.png)
 
 + Type in the name of your list. You can choose whether you would like your list to be available to all sprites, or to only a specific sprite. Click **OK**.
 
-![List name](images/list-name.png)
+![Liste adı](images/list-name.png)
 
-+ Once you have created the list, it will be displayed on the stage, or you can untick the list in the Scripts tab to hide it.
++ Listeyi oluşturduktan sonra, sahnede görüntülenir. Gizlemek için Diziler sekmesinde listenin yanındaki işareti kaldırabilirsiniz.
 
-![List show/hide](images/list-show-hide-annotated.png)
+![Listeyi göster/gizle](images/list-show-hide-annotated.png)
 
-+ Click the `+` at the bottom of the list to add items, and click the cross next to an item to delete it.
++ Öğe eklemek için listenin en altındaki `+` işaretine tıklayın. Silmek için ise bir öğenin yanındaki çarpı işaretine tıklayın.
 
-![List show/hide](images/list-add-delete-annotated.png)
+![Listeyi göster/gizle](images/list-add-delete-annotated.png)
 
-+ New blocks will appear and allow you to use your new list in your project.
++ Yeni bloklar ortaya çıkacak ve yeni listeniz projenizde kullanılabilecektir.
 
-![List blocks](images/list-blocks.png)
+![Liste blokları](images/list-blocks.png)
