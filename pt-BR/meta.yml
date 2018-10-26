@@ -1,16 +1,16 @@
 ---
-title: Make a list
+title: Faça uma lista
 hero_image: images/banner.png
-description: Make a new list
+description: Faça uma nova lista
 theme: red
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
-curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+curriculum: criador, design-0, programação-0, phys-comp-0, manufacture-0, community-0
 interests: ""
 technologies: "scratch"
 site_areas:
 steps:
   - 
-    title: Make a list
+    title: Faça uma lista
