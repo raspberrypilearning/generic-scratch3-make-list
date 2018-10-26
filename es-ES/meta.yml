@@ -1,8 +1,8 @@
 ---
-title: Make a list
+title: Crear una lista
 hero_image: images/banner.png
-description: Make a new list
-theme: red
+description: Crear una lista nueva
+theme: rojo
 duration: 1
 listed: false
 ingredient: true
@@ -13,4 +13,4 @@ technologies: "scratch"
 site_areas:
 steps:
   - 
-    title: Make a list
+    title: Crear una lista
