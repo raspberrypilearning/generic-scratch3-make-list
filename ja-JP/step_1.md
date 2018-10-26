@@ -1,4 +1,4 @@
-## Make a list
+## リストを作る
 
 + Click on **Make a List** under **Variables**.
 
@@ -8,14 +8,14 @@
 
 ![List name](images/list-name.png)
 
-+ Once you have created the list, it will be displayed on the stage, or you can untick the list in the Scripts tab to hide it.
++ 作ったリストはステージに表示されますが、「スクリプト」タブからリストの選択 (せんたく) を解除(かいじょ) してかくすことができます。
 
 ![List show/hide](images/list-show-hide-annotated.png)
 
-+ Click the `+` at the bottom of the list to add items, and click the cross next to an item to delete it.
++ リストの一番下にある `+` をクリックして項目 (こうもく) を追加します。削除 (さくじょ) するには、項目の横にある×マークをクリックします。
 
 ![List show/hide](images/list-add-delete-annotated.png)
 
-+ New blocks will appear and allow you to use your new list in your project.
++ 新しいブロックが表示され、新しいリストをプロジェクトで使用できるようになります。
 
 ![List blocks](images/list-blocks.png)
