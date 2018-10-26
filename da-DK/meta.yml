@@ -1,8 +1,8 @@
 ---
-title: Make a list
+title: Lav en liste
 hero_image: images/banner.png
-description: Make a new list
-theme: red
+description: Lav en ny liste
+theme: rød
 duration: 1
 listed: false
 ingredient: true
@@ -13,4 +13,4 @@ technologies: "scratch"
 site_areas:
 steps:
   - 
-    title: Make a list
+    title: Lav en liste
