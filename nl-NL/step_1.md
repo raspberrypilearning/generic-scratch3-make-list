@@ -1,10 +1,10 @@
 ## Maak een lijst
 
-+ Click on **Make a List** under **Variables**.
++ Klik op **Maak een lijst** onder **Variabelen**.
 
 ![Make a list](images/make-a-list-annotated.png)
 
-+ Type in the name of your list. You can choose whether you would like your list to be available to all sprites, or to only a specific sprite. Click **OK**.
++ Typ de naam van je lijst in. Je kunt kiezen of je wilt dat je variabele beschikbaar is voor alle sprites of alleen voor deze sprite. Klik op **OK**.
 
 ![List name](images/list-name.png)
 
