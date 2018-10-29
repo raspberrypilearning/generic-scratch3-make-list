@@ -1,21 +1,21 @@
-## Make a list
+## Napravi listu
 
 + Click on **Make a List** under **Variables**.
 
-![Make a list](images/make-a-list-annotated.png)
+![Napravi listu](images/make-a-list-annotated.png)
 
 + Type in the name of your list. You can choose whether you would like your list to be available to all sprites, or to only a specific sprite. Click **OK**.
 
-![List name](images/list-name.png)
+![Naziv liste](images/list-name.png)
 
-+ Once you have created the list, it will be displayed on the stage, or you can untick the list in the Scripts tab to hide it.
++ Nakon što napraviš listu, ona će se prikazati na Pozornici. Možeš maknuti kvačicu kraj liste na kartici Skripte da bi ju sakrio.
 
-![List show/hide](images/list-show-hide-annotated.png)
+![Prikaži/sakrij listu](images/list-show-hide-annotated.png)
 
-+ Click the `+` at the bottom of the list to add items, and click the cross next to an item to delete it.
++ Klikni na znak `+` pri dnu popisa da bi dodao elemente liste. Klikni na križić pored elementa da bi ga izbrisao.
 
-![List show/hide](images/list-add-delete-annotated.png)
+![Prikaži/sakrij listu](images/list-add-delete-annotated.png)
 
-+ New blocks will appear and allow you to use your new list in your project.
++ Prikazat će se novi blokovi i omogućiti ti da novu listu koristiš u projektu.
 
-![List blocks](images/list-blocks.png)
+![Blokovi liste](images/list-blocks.png)
