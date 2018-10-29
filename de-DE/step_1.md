@@ -1,21 +1,21 @@
-## Make a list
+## Mache eine Liste
 
 + Click on **Make a List** under **Variables**.
 
-![Make a list](images/make-a-list-annotated.png)
+![Eine Liste erstellen](images/make-a-list-annotated.png)
 
 + Type in the name of your list. You can choose whether you would like your list to be available to all sprites, or to only a specific sprite. Click **OK**.
 
-![List name](images/list-name.png)
+![Name der Liste](images/list-name.png)
 
-+ Once you have created the list, it will be displayed on the stage, or you can untick the list in the Scripts tab to hide it.
++ Nachdem du die Liste erstellt hast, wird sie auf der Bühne angezeigt, oder sie wird versteckt, wenn du das Häkchen vor der Liste in der Registerkarte Skripte entfernst.
 
-![List show/hide](images/list-show-hide-annotated.png)
+![Liste zeigen / verstecken](images/list-show-hide-annotated.png)
 
-+ Click the `+` at the bottom of the list to add items, and click the cross next to an item to delete it.
++ Klicke unten in der Liste auf das `+` um ein Element hinzuzufügen und klicke auf das X neben einem Element, um es zu löschen.
 
-![List show/hide](images/list-add-delete-annotated.png)
+![Liste zeigen / verstecken](images/list-add-delete-annotated.png)
 
-+ New blocks will appear and allow you to use your new list in your project.
++ Neue Blöcke werden angezeigt, und mit ihnen kannst du deine neue Liste in deinem Projekt verwenden.
 
-![List blocks](images/list-blocks.png)
+![Blöcke der Liste](images/list-blocks.png)
