@@ -8,7 +8,7 @@
 
 ![List name](images/list-name.png)
 
-+ Once you have created the list, it will be displayed on the stage, or you can untick the list in the Scripts tab to hide it.
++ Una volta creata la lista, questa verrà visualizzata sullo stage. Puoi nascondere la lista deselezionandola nella scheda Script.
 
 ![List show/hide](images/list-show-hide-annotated.png)
 
@@ -16,6 +16,6 @@
 
 ![List show/hide](images/list-add-delete-annotated.png)
 
-+ New blocks will appear and allow you to use your new list in your project.
++ Appariranno nuovi blocchi che ti permetteranno di usare la tua nuova lista nel tuo progetto.
 
 ![List blocks](images/list-blocks.png)
