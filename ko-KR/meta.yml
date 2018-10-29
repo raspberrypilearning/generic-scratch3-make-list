@@ -1,7 +1,7 @@
 ---
-title: Make a list
+title: 리스트 만들기
 hero_image: images/banner.png
-description: Make a new list
+description: 새 리스트 만들기
 theme: red
 duration: 1
 listed: false
@@ -13,4 +13,4 @@ technologies: "scratch"
 site_areas:
 steps:
   - 
-    title: Make a list
+    title: 리스트 만들기
