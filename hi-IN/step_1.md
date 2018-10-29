@@ -1,21 +1,21 @@
-## Make a list
+## सूची बनाएँ
 
 + Click on **Make a List** under **Variables**.
 
-![Make a list](images/make-a-list-annotated.png)
+![सूची बनाएँ](images/make-a-list-annotated.png)
 
 + Type in the name of your list. You can choose whether you would like your list to be available to all sprites, or to only a specific sprite. Click **OK**.
 
-![List name](images/list-name.png)
+![सूची नाम](images/list-name.png)
 
-+ Once you have created the list, it will be displayed on the stage, or you can untick the list in the Scripts tab to hide it.
++ सूची बन जाने पर, यह स्टेज पर दिखाई देगी, या आप इसे छिपाने के लिए स्क्रिप्ट(Scripts) टैब में टिक हटा(untick कर) सकते हैं।
 
-![List show/hide](images/list-show-hide-annotated.png)
+![सूची दिखाएँ / छुपाएं](images/list-show-hide-annotated.png)
 
-+ Click the `+` at the bottom of the list to add items, and click the cross next to an item to delete it.
++ चीज़ो(items) को शामिल करने के लिए सूची के नीचे `+` पर क्लिक करें, और किसी चीज़ को हटाने के लिए उसके आगे क्रॉस पर क्लिक करें।
 
-![List show/hide](images/list-add-delete-annotated.png)
+![सूची दिखाएँ / छुपाएं](images/list-add-delete-annotated.png)
 
-+ New blocks will appear and allow you to use your new list in your project.
++ नए ब्लॉक्स दिखाई देंगे और वे आपको आपके प्रोजेक्ट में आपकी नई सूची का उपयोग करने की सुविधा प्रदान करेंगे।
 
-![List blocks](images/list-blocks.png)
+![सूची ब्लॉक](images/list-blocks.png)
