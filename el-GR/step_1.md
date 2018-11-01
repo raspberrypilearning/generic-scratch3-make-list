@@ -1,10 +1,10 @@
 ## Κάνε μία λίστα
 
-+ Click on **Make a List** under **Variables**.
++ Κάνε κλικ στο **Δημιουργία Λίστας** στην ομάδα μπλοκ **Μεταβλητές**.
 
 ![Κάνε μία λίστα](images/make-a-list-annotated.png)
 
-+ Type in the name of your list. You can choose whether you would like your list to be available to all sprites, or to only a specific sprite. Click **OK**.
++ Πληκτρολόγησε το όνομα της λίστας σου. Μπορείς να επιλέξεις αν θέλεις να είναι διαθέσιμη η λίστα σου σε όλα τα αντικείμενα (sprites) ή μόνο σε αυτό το αντικείμενο. Πάτησε **ΟΚ**.
 
 ![Λίστα ονομάτων](images/list-name.png)
 
