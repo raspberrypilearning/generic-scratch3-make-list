@@ -1,21 +1,19 @@
-## Make a list
++ Klikni na **Ustvari seznam** pod **Spremenljivke**.
 
-+ Click on **Make a List** under **Variables**.
+![Ustvari seznam](images/make-a-list-annotated.png)
 
-![Make a list](images/make-a-list-annotated.png)
++ Vnesi ime svojega seznama. Izbereš lahko ali naj bo tvoj seznam na voljo vsem figuram ali zgolj točno določeni figuri. Pritisni **OK**.
 
-+ Type in the name of your list. You can choose whether you would like your list to be available to all sprites, or to only a specific sprite. Click **OK**.
+![Ime seznama](images/list-name.png)
 
-![List name](images/list-name.png)
++ Ko ustvariš seznam, se bo ta prikazal na odru, lahko pa ga tudi skriješ, tako da seznam odznačiš v zavihku Koda.
 
-+ Once you have created the list, it will be displayed on the stage, or you can untick the list in the Scripts tab to hide it.
+![Prikaži ali skrij seznam](images/list-show-hide-annotated.png)
 
-![List show/hide](images/list-show-hide-annotated.png)
++ Klikni na `+` na dnu seznama, če želiš dodati elemente ali klikni na križec poleg elementa, če ga želiš izbrisati.
 
-+ Click the `+` at the bottom of the list to add items, and click the cross next to an item to delete it.
+![Prikaži ali skrij seznam](images/list-add-delete-annotated.png)
 
-![List show/hide](images/list-add-delete-annotated.png)
++ Pojavili se bodo novi bloki, ki omogočajo uporabo novega seznama v projektu.
 
-+ New blocks will appear and allow you to use your new list in your project.
-
-![List blocks](images/list-blocks.png)
+![Bloki seznamov](images/list-blocks.png)
