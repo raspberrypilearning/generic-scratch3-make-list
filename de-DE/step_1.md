@@ -1,14 +1,12 @@
-## Mache eine Liste
-
-+ Click on **Make a List** under **Variables**.
++ Klicke unter **Variablen** auf **Neue Liste**.
 
 ![Eine Liste erstellen](images/make-a-list-annotated.png)
 
-+ Type in the name of your list. You can choose whether you would like your list to be available to all sprites, or to only a specific sprite. Click **OK**.
++ Tippe den Namen deiner Liste ein. Du kannst wählen, ob deine Liste für alle Figuren oder nur für eine bestimmte Figur verfügbar sein soll. Klicke auf **OK**.
 
 ![Name der Liste](images/list-name.png)
 
-+ Nachdem du die Liste erstellt hast, wird sie auf der Bühne angezeigt, oder sie wird versteckt, wenn du das Häkchen vor der Liste in der Registerkarte Skripte entfernst.
++ Nachdem du die Liste erstellt hast, wird sie auf der Bühne angezeigt, oder sie wird versteckt, wenn du das Häkchen vor der Liste in der Registerkarte Code entfernst.
 
 ![Liste zeigen / verstecken](images/list-show-hide-annotated.png)
 
