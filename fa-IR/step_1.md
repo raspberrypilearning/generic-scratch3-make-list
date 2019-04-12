@@ -1,10 +1,8 @@
-## یک لیست ایجاد کنید
-
-+ Click on **Make a List** under **Variables**.
++ بر روی **Make a List** زیر **Variables** کلیک کنید.
 
 ![یک لیست ایجاد کنید](images/make-a-list-annotated.png)
 
-+ Type in the name of your list. You can choose whether you would like your list to be available to all sprites, or to only a specific sprite. Click **OK**.
++ نام لیست خود را وارد کنید. شما می‌توانید انتخاب کنید که آیا می‌خواهید لیست شما برای تمام شبح‌ها موجود باشد یا فقط برای یک شبح خاص در دسترس باشد. روی ** OK** کلیک کنید.
 
 ![نام لیست](images/list-name.png)
 
