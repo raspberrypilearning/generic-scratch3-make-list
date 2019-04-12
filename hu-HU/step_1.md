@@ -1,5 +1,3 @@
-## Készíts egy listát
-
 + Click on **Make a List** under **Variables**.
 
 ![Készíts egy listát](images/make-a-list-annotated.png)
