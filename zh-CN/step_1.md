@@ -1,10 +1,8 @@
-## 创建链表
-
-+ Click on **Make a List** under **Variables**.
++ 在**变量**类别中点击**建立一个列表**
 
 ![创建列表](images/make-a-list-annotated.png)
 
-+ Type in the name of your list. You can choose whether you would like your list to be available to all sprites, or to only a specific sprite. Click **OK**.
++ 输入列表名称。 您可以选择是希望列表对所有角色可用，还是仅对特定角色可用。 点击**确定**。
 
 ![列表名称](images/list-name.png)
 
