@@ -1,5 +1,3 @@
-## Maak een lijst
-
 + Klik op **Maak een lijst** onder **Variabelen**.
 
 ![Make a list](images/make-a-list-annotated.png)
