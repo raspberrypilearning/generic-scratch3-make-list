@@ -1,10 +1,8 @@
-## 리스트 만들기
-
-+ Click on **Make a List** under **Variables**.
++ **변수** 항목 아래에 있는 **리스트 만들기**를 클릭합니다.
 
 ![리스트 만들기](images/make-a-list-annotated.png)
 
-+ Type in the name of your list. You can choose whether you would like your list to be available to all sprites, or to only a specific sprite. Click **OK**.
++ 리스트의 이름을 입력하십시오. 리스트를 모든 스프라이트에 사용할 지 또는 이 스프라이트에만 사용할지 여부를 선택할 수 있습니다. **확인**을 클릭하세요.
 
 ![리스트 이름](images/list-name.png)
 
