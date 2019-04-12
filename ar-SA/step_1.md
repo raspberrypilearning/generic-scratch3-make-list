@@ -1,10 +1,8 @@
-## إنشاء لائحة
-
-+ Click on **Make a List** under **Variables**.
++ انقر فوق **إنشاء قائمة** أسفل **المتغيرات**.
 
 ![إنشاء لائحة](images/make-a-list-annotated.png)
 
-+ Type in the name of your list. You can choose whether you would like your list to be available to all sprites, or to only a specific sprite. Click **OK**.
++ قم بكتابة اسم قائمة. يمكنك اختيار ما إذا كنت تريد هذه القائمة أن تكون متاحة لجميع الكائنات، أو فقط لهذا المتغير. انقر فوق **موافق**.
 
 ![اللائحة الأسماء](images/list-name.png)
 
