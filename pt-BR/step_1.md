@@ -1,5 +1,3 @@
-## Faça uma lista
-
 + Click on **Make a List** under **Variables**.
 
 ![Faça uma lista](images/make-a-list-annotated.png)
