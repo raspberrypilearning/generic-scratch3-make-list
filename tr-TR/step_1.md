@@ -1,10 +1,8 @@
-## Bir liste yapın
-
-+ Click on **Make a List** under **Variables**.
++ **Değişkenler** 'in altındaki **Bir Liste Oluştur** 'a tıklayın.
 
 ![Bir liste yapın](images/make-a-list-annotated.png)
 
-+ Type in the name of your list. You can choose whether you would like your list to be available to all sprites, or to only a specific sprite. Click **OK**.
++ Listeniz için bir isim yazın. Listenizin tüm Kuklalar için mi yoksa yalnızca belirli bir Kukla için geçerli olmasını, isteyip istemediğinizi seçebilirsiniz. **TAMAM** 'ı tıklayın.
 
 ![Liste adı](images/list-name.png)
 
