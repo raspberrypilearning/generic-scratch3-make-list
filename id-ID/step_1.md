@@ -1,5 +1,3 @@
-## Membuat sebuah daftar
-
 + Click on **Make a List** under **Variables**.
 
 ![Membuat sebuah daftar](images/make-a-list-annotated.png)
