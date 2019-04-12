@@ -1,16 +1,16 @@
 ---
-title: Make a list
-hero_image: images/banner.png
-description: Make a new list
-theme: red
+title: Ustvari seznam
+hero_image: images / banner.png
+description: Ustvari nov seznam
+theme: rdeča
 duration: 1
 listed: false
 ingredient: true
 copyedit: true
-curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+curriculum: ustvarjalec, oblikovanje-0, programiranje-0, fiz-rač-0, izdelava-0, skupnost-0
 interests: ""
 technologies: "scratch"
 site_areas:
 steps:
   - 
-    title: Make a list
+    title: Ustvari seznam
