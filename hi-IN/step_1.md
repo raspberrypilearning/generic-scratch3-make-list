@@ -1,10 +1,8 @@
-## सूची बनाएँ
-
-+ Click on **Make a List** under **Variables**.
++ **Make a list** पर क्लिक करें जो **Variables** के नीचे है।
 
 ![सूची बनाएँ](images/make-a-list-annotated.png)
 
-+ Type in the name of your list. You can choose whether you would like your list to be available to all sprites, or to only a specific sprite. Click **OK**.
++ अपनी सूची का नाम लिखें। आप चुन सकते हैं कि क्या आप चाहेंगे कि आपकी सूची सभी स्प्राइट्स के लिए उपलब्ध हो, या केवल एक विशिष्ट स्प्राइट के लिए। **OK** पर क्लिक करें।
 
 ![सूची नाम](images/list-name.png)
 
