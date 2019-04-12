@@ -1,14 +1,12 @@
-## Utwórz listę
++ Kliknij **Stwórz listę** poniżej **Zmienne**.
 
-+ Click on **Make a List** under **Variables**.
+![Stwórz listę](images/make-a-list-annotated.png)
 
-![Utwórz listę](images/make-a-list-annotated.png)
-
-+ Type in the name of your list. You can choose whether you would like your list to be available to all sprites, or to only a specific sprite. Click **OK**.
++ Wpisz nazwę swojej listy. Możesz wybrać, czy chcesz, aby twoja lista była dostępna dla wszystkich duszków, czy tylko dla tego duszka. Kliknij **OK**.
 
 ![Nazwa listy](images/list-name.png)
 
-+ Po utworzeniu zmiennej zostanie ona wyświetlona na scenie. Możesz też odznaczać ją na karcie Skrypty, aby ją ukryć.
++ Po utworzeniu listy zostanie ona wyświetlona na planszy. Możesz też odznaczać ją na karcie Skrypty, aby ją ukryć.
 
 ![Pokaż / ukryj listę](images/list-show-hide-annotated.png)
 
