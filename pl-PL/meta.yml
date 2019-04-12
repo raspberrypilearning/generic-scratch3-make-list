@@ -1,5 +1,5 @@
 ---
-title: Utwórz listę
+title: Stwórz listę
 hero_image: images / banner.png
 description: Utwórz nową listę
 theme: red
@@ -13,4 +13,4 @@ technologies: "scratch"
 site_areas:
 steps:
   - 
-    title: Utwórz listę
+    title: Stwórz listę
