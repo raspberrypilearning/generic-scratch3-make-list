@@ -4,7 +4,7 @@
 
 + Type in the name of your list. You can choose whether you would like your list to be available to all sprites, or to only a specific sprite. Click **OK**.
 
-![Naziv liste](images/list-name.png)
+![Naziv liste](images/list-name-annotated.png)
 
 + Nakon što napraviš listu, ona će se prikazati na Pozornici. Možeš maknuti kvačicu kraj liste na kartici Skripte da bi ju sakrio.
 
