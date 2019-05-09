@@ -4,7 +4,7 @@
 
 + Skriv navnet på din liste. Du kan vælge, om du vil have din liste tilgængelig for alle sprites eller kun en bestemt sprite. Click **OK**.
 
-![Listenavn](images/list-name.png)
+![Listenavn](images/list-name-annotated.png)
 
 + Når du har oprettet listen, vises den på scenen, eller du kan afmarkere listen på fanen Scripts igen for at skjule den.
 
