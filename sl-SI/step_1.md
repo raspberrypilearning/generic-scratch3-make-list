@@ -4,7 +4,7 @@
 
 + Vnesi ime svojega seznama. Izbereš lahko ali naj bo tvoj seznam na voljo vsem figuram ali zgolj točno določeni figuri. Pritisni **OK**.
 
-![Ime seznama](images/list-name.png)
+![Ime seznama](images/list-name-annotated.png)
 
 + Ko ustvariš seznam, se bo ta prikazal na odru, lahko pa ga tudi skriješ, tako da seznam odznačiš v zavihku Koda.
 
