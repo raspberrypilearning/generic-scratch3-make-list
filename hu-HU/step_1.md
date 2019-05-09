@@ -4,7 +4,7 @@
 
 + Type in the name of your list. You can choose whether you would like your list to be available to all sprites, or to only a specific sprite. Click **OK**.
 
-![Lista neve](images/list-name.png)
+![Lista neve](images/list-name-annotated.png)
 
 + Miután létrehoztad a listát, megjelenik a játéktéren, de el is rejtheted a listát a Feladatok fülön a jelölőnégyzettel.
 
