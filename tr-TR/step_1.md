@@ -4,7 +4,7 @@
 
 + Listeniz için bir isim yazın. Listenizin tüm Kuklalar için mi yoksa yalnızca belirli bir Kukla için geçerli olmasını, isteyip istemediğinizi seçebilirsiniz. **TAMAM** 'ı tıklayın.
 
-![Liste adı](images/list-name.png)
+![Liste adı](images/list-name-annotated.png)
 
 + Listeyi oluşturduktan sonra, sahnede görüntülenir. Gizlemek için Diziler sekmesinde listenin yanındaki işareti kaldırabilirsiniz.
 
