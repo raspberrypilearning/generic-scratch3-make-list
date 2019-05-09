@@ -4,7 +4,7 @@
 
 + Type in the name of your list. You can choose whether you would like your list to be available to all sprites, or to only a specific sprite. Click **OK**.
 
-![Nom de la liste](images/list-name.png)
+![Nom de la liste](images/list-name-annotated.png)
 
 + Une fois que tu as créé la liste, elle s'affiche sur la scène où tu peux la décocher dans l'onglet Scripts pour la masquer.
 
