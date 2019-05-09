@@ -4,7 +4,7 @@
 
 + Type in the name of your list. You can choose whether you would like your list to be available to all sprites, or to only a specific sprite. Click **OK**.
 
-![List name](images/list-name.png)
+![List name](images/list-name-annotated.png)
 
 + 作ったリストはステージに表示されますが、「スクリプト」タブからリストの選択 (せんたく) を解除(かいじょ) してかくすことができます。
 
