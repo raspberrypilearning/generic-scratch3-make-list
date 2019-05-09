@@ -4,7 +4,7 @@
 
 + Wpisz nazwę swojej listy. Możesz wybrać, czy chcesz, aby twoja lista była dostępna dla wszystkich duszków, czy tylko dla tego duszka. Kliknij **OK**.
 
-![Nazwa listy](images/list-name.png)
+![Nazwa listy](images/list-name-annotated.png)
 
 + Po utworzeniu listy zostanie ona wyświetlona na planszy. Możesz też odznaczać ją na karcie Skrypty, aby ją ukryć.
 
