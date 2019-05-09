@@ -4,7 +4,7 @@
 
 + Dă un nume listei tale. Poți alege ca lista ta să fie disponibilă pentru toate personajele sau doar pentru un anumit personaj. Apasă **OK**.
 
-![Nume listă](images/list-name.png)
+![Nume listă](images/list-name-annotated.png)
 
 + Odată ce ai creat lista, aceasta va fi afișată pe scenă, sau poți debifa lista în tabul Cod, pentru a o ascunde.
 
