@@ -4,7 +4,7 @@
 
 + Tippe den Namen deiner Liste ein. Du kannst wählen, ob deine Liste für alle Figuren oder nur für eine bestimmte Figur verfügbar sein soll. Klicke auf **OK**.
 
-![Name der Liste](images/list-name.png)
+![Name der Liste](images/list-name-annotated.png)
 
 + Nachdem du die Liste erstellt hast, wird sie auf der Bühne angezeigt, oder sie wird versteckt, wenn du das Häkchen vor der Liste in der Registerkarte Code entfernst.
 
