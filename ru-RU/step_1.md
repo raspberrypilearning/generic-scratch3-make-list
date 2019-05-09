@@ -4,7 +4,7 @@
 
 + Type in the name of your list. You can choose whether you would like your list to be available to all sprites, or to only a specific sprite. Click **OK**.
 
-![Название списка](images/list-name.png)
+![Название списка](images/list-name-annotated.png)
 
 + После того, как тобой был создан этот самый список, ты можешь указать: хочешь ли ты, чтобы он отображался на сцене. Сделать это можно на вкладке «Скрипты».
 
