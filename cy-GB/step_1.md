@@ -1,19 +1,19 @@
-+ Click on **Make a List** under **Variables**.
++ Clicia ar ** Gwneud Rhestr ** o dan ** Newidynnau **.
 
-![Make a list](images/make-a-list-annotated.png)
+![Creu rhestr](images/make-a-list-annotated.png)
 
-+ Type in the name of your list. You can choose whether you would like your list to be available to all sprites, or to only a specific sprite. Click **OK**.
++ Teipia enw dy restr. Mae modd i ti ddewis os hoffet ti i'r rhestr fod ar gael i bob un corlun, neu ar gyfer un corlun yn unig. Clicia **Iawn**.
 
-![List name](images/list-name-annotated.png)
+![Enw'r rhestr](images/list-name-annotated.png)
 
-+ Once you have created the list, it will be displayed on the stage, or you can untick the list in the Scripts tab to hide it.
++ Ar ôl i ti greu'r rhestr, bydd yn cael ei harddangos ar y llwyfan, neu gelli di ddileu tic y rhestr yn y tab Sgriptiau i'w chuddio.
 
-![List show/hide](images/list-show-hide-annotated.png)
+![Dangos/cuddio'r rhestr](images/list-show-hide-annotated.png)
 
-+ Click the `+` at the bottom of the list to add items, and click the cross next to an item to delete it.
++ Clicia ar y `+` ar waelod y rhestr i ychwanegu eitemau, a chlicia ar y groes ar ymyl eitem i'w dileu.
 
-![List show/hide](images/list-add-delete-annotated.png)
+![Dangos/cuddio'r rhestr](images/list-add-delete-annotated.png)
 
-+ New blocks will appear and allow you to use your new list in your project.
++ Bydd blociau newydd yn ymddangos ac yn dy alluogi i ddefnyddio dy restr newydd yn dy brosiect.
 
-![List blocks](images/list-blocks.png)
+![Blociau'r rhestr](images/list-blocks.png)
