@@ -2,7 +2,7 @@
 
 ![Creu rhestr](images/make-a-list-annotated.png)
 
-+ Teipia enw dy restr. Mae modd i ti ddewis os hoffet ti i'r rhestr fod ar gael i bob un corlun, neu ar gyfer un corlun yn unig. Clicia **Iawn**.
++ Teipia enw dy rhestr. Mae modd i ti ddewis os hoffet ti i'r rhestr fod ar gael i bob un corlun, neu ar gyfer un corlun yn unig. Clicia **Iawn**.
 
 ![Enw'r rhestr](images/list-name-annotated.png)
 
