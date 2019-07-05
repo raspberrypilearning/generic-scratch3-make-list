@@ -1,8 +1,8 @@
-+ Click on **Make a List** under **Variables**.
++ Kattints a **Készíts listát** gombra a **Változók** lapon.
 
 ![Készíts egy listát](images/make-a-list-annotated.png)
 
-+ Type in the name of your list. You can choose whether you would like your list to be available to all sprites, or to only a specific sprite. Click **OK**.
++ Írd be a lista nevét. Kiválaszthatod, hogy a lista elérhető legyen minden szereplőnek, vagy csak egy adott szereplőnek. Nyomd meg az **OK** gombot.
 
 ![Lista neve](images/list-name-annotated.png)
 
