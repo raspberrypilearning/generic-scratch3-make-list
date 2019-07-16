@@ -1,8 +1,8 @@
-+ Click on **Make a List** under **Variables**.
++ Fai clic su **Crea una lista** sotto **Variabili**.
 
 ![Creare una lista](images/make-a-list-annotated.png)
 
-+ Type in the name of your list. You can choose whether you would like your list to be available to all sprites, or to only a specific sprite. Click **OK**.
++ Digita il nome della tua lista. Puoi scegliere se desideri che la tua variabile sia disponibile per tutti gli sprite o solo per lo sprite selezionato in quel momento. Premi **OK**.
 
 ![Nome della lista](images/list-name-annotated.png)
 
