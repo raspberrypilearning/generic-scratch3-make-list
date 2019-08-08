@@ -1,8 +1,8 @@
-+ Click on **Make a List** under **Variables**.
++ Klik på ** Lav en liste ** under ** Variabler **.
 
 ![Lav en liste](images/make-a-list-annotated.png)
 
-+ Skriv navnet på din liste. Du kan vælge, om du vil have din liste tilgængelig for alle sprites eller kun en bestemt sprite. Click **OK**.
++ Skriv navnet på din liste. Du kan vælge, om du vil have din liste tilgængelig for alle sprites eller kun en bestemt sprite. Klik på ** OK **.
 
 ![Listenavn](images/list-name-annotated.png)
 
