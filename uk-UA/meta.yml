@@ -1,7 +1,7 @@
 ---
-title: Make a list
+title: Створити список
 hero_image: images/banner.png
-description: Make a new list
+description: Створити новий список
 theme: red
 duration: 1
 listed: false
@@ -13,4 +13,4 @@ technologies: "scratch"
 site_areas:
 steps:
   - 
-    title: Make a list
+    title: Створити список
