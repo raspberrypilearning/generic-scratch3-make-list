@@ -1,8 +1,8 @@
-+ Click on **Make a List** under **Variables**.
++ Clique em **Faça uma Lista** abaixo de **Variáveis**.
 
 ![Faça uma lista](images/make-a-list-annotated.png)
 
-+ Type in the name of your list. You can choose whether you would like your list to be available to all sprites, or to only a specific sprite. Click **OK**.
++ Digite o nome da sua lista. Você pode escolher se deseja que sua lista esteja disponível para todos os atores, ou apenas para um ator específico. Clique **OK**.
 
 ![Lista de nomes](images/list-name-annotated.png)
 
