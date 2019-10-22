@@ -1,16 +1,16 @@
 ---
-title: Make a list
-hero_image: images/banner.png
-description: Make a new list
-theme: red
-duration: 1
+title: ලැයිස්තුවක් සාදන්න
+hero_image: images / banner.png
+description: නව ලැයිස්තුවක් සාදන්න
+theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+duration: 1 #possible values: 1, 2 or 3
 listed: false
 ingredient: true
 copyedit: true
-curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+curriculum: නිර්මාණකරු, සැලසුම්-0, කේතන වැඩසටහන්-0, භෞතික-පරිගනක-0, නිෂ්පාදනය-0, ප්‍රජා-0
 interests: ""
 technologies: "scratch"
 site_areas:
 steps:
   - 
-    title: Make a list
+    title: ලැයිස්තුවක් සාදන්න
