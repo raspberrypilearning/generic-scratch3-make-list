@@ -2,8 +2,8 @@
 title: Создание списка
 hero_image: images/banner.png
 description: Создаем новый список
-theme: красная
-duration: 1
+theme: красная #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+duration: 1 #possible values: 1, 2 or 3
 listed: false
 ingredient: true
 copyedit: true
