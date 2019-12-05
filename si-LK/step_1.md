@@ -1,19 +1,19 @@
-+ Click on **Make a List** under **Variables**.
++ **විචල්යයන්(Variales)** යටතේ ඇති **ලැයිස්තුවක් සාදන්න(Make a List)** මත ක්ලික් කරන්න.
 
-![Make a list](images/make-a-list-annotated.png)
+![ලැයිස්තුවක් සාදන්න](images / make-a-list-annotated.png)
 
-+ Type in the name of your list. You can choose whether you would like your list to be available to all sprites, or to only a specific sprite. Click **OK**.
++ ඔබගේ ලැයිස්තුවේ නම ටයිප් කරන්න. ඔබේ ලැයිස්තුව සියලු sprite වලට ලබා ගැනීමට හැකිද යන්න ඔබට තේරිය හැක, හෝ නිශ්චිත sprite එකකට පමණක් ලබා ගැනීමට හැකිද යන්න ඔබට තෝරා ගත හැකිය. **හරි(OK)** ක්ලික් කරන්න.
 
-![List name](images/list-name-annotated.png)
+![ලැයිස්තු නාමය](images / list-name-annotated.png)
 
-+ Once you have created the list, it will be displayed on the stage, or you can untick the list in the Scripts tab to hide it.
++ ඔබ ලැයිස්තුව නිර්මාණය කළ පසු, එය වේදිකාවේ දර්ශනය වනු ඇත, නැතහොත් ඔබට එය සැඟවීමට අවශ්‍ය නම් ස්ක්‍රිප්ට් පටිත්තේ(Script tab) අති ලයිස්තුව අන්ටික් කරන්න.
 
-![List show/hide](images/list-show-hide-annotated.png)
+![ලැයිස්තුව පෙන්වන්න / සඟවන්න](images / list-show-hide-annotated.png)
 
-+ Click the `+` at the bottom of the list to add items, and click the cross next to an item to delete it.
++ අයිතම එකතු කිරීමට ලැයිස්තුවේ පතුලේ ඇති `+` ක්ලික් කරන්න, එය මකා දැමීමට අයිතමයක් අසල ඇති කතිරය ක්ලික් කරන්න.
 
-![List show/hide](images/list-add-delete-annotated.png)
+![ලැයිස්තුව පෙන්වන්න / සඟවන්න](images / list-add-delete-annotated.png)
 
-+ New blocks will appear and allow you to use your new list in your project.
++ නව කට්ටල(New blocks) දර්ශනය වනු ඇත, ඔබගේ ව්‍යාපෘතියේ ඔබගේ නව ලැයිස්තුව භාවිතා කිරීමට දැන් හැකිය.
 
-![List blocks](images/list-blocks.png)
+![ලැයිස්තු කට්ටි ](images / list-blocks.png)
