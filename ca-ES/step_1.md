@@ -1,18 +1,18 @@
-+ Click on **Make a List** under **Variables**.
++ Fes clic a **Crea una llista** a l'apartat **Variables**.
 
-![Make a list](images/make-a-list-annotated.png)
+![Crea una llista](images/make-a-list-annotated.png)
 
-+ Type in the name of your list. You can choose whether you would like your list to be available to all sprites, or to only a specific sprite. Click **OK**.
++ Escriu-hi el nom de la teva llista. Pots triar si vols que la teva llista estigui disponible per a tots els personatges o només per a un d'específic. Fes clic a **D'acord**.
 
-![List name](images/list-name-annotated.png)
+![Nom de la llista](images/list-name-annotated.png)
 
-+ Once you have created the list, it will be displayed on the stage, or you can untick the list in the Scripts tab to hide it.
++ Una vegada que hagis creat la llista, aquesta es mostrarà en l'escenari, es pot amagar si desmarques la seva casella.
 
-![List show/hide](images/list-show-hide-annotated.png)
+![Mostrar/amagar llista](images/list-show-hide-annotated.png)
 
-+ Click the `+` at the bottom of the list to add items, and click the cross next to an item to delete it.
++ Fes clic a `+` en la part inferior de la llista per afegir elements i clica a la creu que està al costat d'un element per eliminar-lo.
 
-![List show/hide](images/list-add-delete-annotated.png)
+![Mostrar/amagar llista](images/list-add-delete-annotated.png)
 
 + New blocks will appear and allow you to use your new list in your project.
 
