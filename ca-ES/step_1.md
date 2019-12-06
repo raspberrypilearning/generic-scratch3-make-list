@@ -1,6 +1,6 @@
 + Fes clic a **Crea una llista** a l'apartat **Variables**.
 
-![Crea una llista](images/make-a-list-annotated.png)
+![Crear una llista](images/make-a-list-annotated.png)
 
 + Escriu-hi el nom de la teva llista. Pots triar si vols que la teva llista estigui disponible per a tots els personatges o només per a un d'específic. Fes clic a **D'acord**.
 
@@ -14,6 +14,6 @@
 
 ![Mostrar/amagar llista](images/list-add-delete-annotated.png)
 
-+ New blocks will appear and allow you to use your new list in your project.
++ Apareixeran nous blocs i us permetran utilitzar la nova llista del vostre projecte.
 
-![List blocks](images/list-blocks.png)
+![Blocs de llista](images/list-blocks.png)
