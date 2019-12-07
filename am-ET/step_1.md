@@ -14,6 +14,6 @@
 
 ![List show/hide](images/list-add-delete-annotated.png)
 
-+ New blocks will appear and allow you to use your new list in your project.
++ አዳዲስ እገዳዎች ይታያሉ እና በፕሮጀክትዎ ውስጥ አዲሱን ዝርዝርዎን እንዲጠቀሙ ይፈቅዱልዎታል::
 
 ![List blocks](images/list-blocks.png)
