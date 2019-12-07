@@ -1,19 +1,19 @@
-+ Click on **Make a List** under **Variables**.
++ **ተለዋዋጮች** ሥር **ዝርዝር ይስሩ** ላይ ጠቅ ያድርጉ::
 
-![Make a list](images/make-a-list-annotated.png)
+![ዝርዝር ይስሩ](images/make-a-list-annotated.png)
 
-+ Type in the name of your list. You can choose whether you would like your list to be available to all sprites, or to only a specific sprite. Click **OK**.
++ በእርስዎ ዝርዝር ስም ይፃፋ:: የእርስዎ ዝርዝር ለሁሉም ስፐራይቶች ወይም ለአንድ የተወሰነ ስፐራይት ብቻ እንዲኖርዎ መምረጥ ይችላሉ:: **እሺ** ጠቅ ያድርጉ::
 
-![List name](images/list-name-annotated.png)
+![ስም ዝርዝር](images/list-name-annotated.png)
 
-+ Once you have created the list, it will be displayed on the stage, or you can untick the list in the Scripts tab to hide it.
++ አንዴ ዝርዝሩን ከፈጠሩ በኋላ በመድረኩ ላይ ይታያል ወይም ለመደበቅ ደሞ ከስክሪፕት ስብስብ ውስጥ ያለውን ዝርዝር ምልክት ያንሱ::
 
-![List show/hide](images/list-show-hide-annotated.png)
+![ዝርዝር አሳይ / ደብቅ](images/list-show-hide-annotated.png)
 
-+ Click the `+` at the bottom of the list to add items, and click the cross next to an item to delete it.
++ ንጥሎችን ለመጨመር ከዝርዝሩ ግርጌ ላይ `+` ጠቅ ያድርጉ እና ደግሞ ለመሰረዝ ከአንድ ንጥል አጠገብ ያለውን መስቀል ጠቅ ያድርጉ::
 
-![List show/hide](images/list-add-delete-annotated.png)
+![ዝርዝር አሳይ / ደብቅ](images/list-add-delete-annotated.png)
 
 + አዳዲስ እገዳዎች ይታያሉ እና በፕሮጀክትዎ ውስጥ አዲሱን ዝርዝርዎን እንዲጠቀሙ ይፈቅዱልዎታል::
 
-![List blocks](images/list-blocks.png)
+![እገዳዎች ዝርዝር](images/list-blocks.png)
