@@ -1,8 +1,8 @@
-+ Click on **Make a List** under **Variables**.
++ Klik pada **Buat Sebuah Daftar** di bagian **Variabel**.
 
 ![Membuat sebuah daftar](images/make-a-list-annotated.png)
 
-+ Type in the name of your list. You can choose whether you would like your list to be available to all sprites, or to only a specific sprite. Click **OK**.
++ Tuliskan nama daftar kamu. Silahkan kamu pilih, apakah daftar kamu bisa di akses di semua sprite atau hanya di sprite ini saja. Klik **OK**.
 
 ![List name](images/list-name-annotated.png)
 
