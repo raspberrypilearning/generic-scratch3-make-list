@@ -1,19 +1,19 @@
-+ Click on **Make a List** under **Variables**.
++ 在**變數**類別中點擊**建立一個清單**。
 
-![Make a list](images/make-a-list-annotated.png)
+![建立一個清單](images/make-a-list-annotated.png)
 
-+ Type in the name of your list. You can choose whether you would like your list to be available to all sprites, or to only a specific sprite. Click **OK**.
++ 輸入清單的名稱。 你可以選擇讓清單適用於所有角色，或是僅適用當前角色。 點選**確定**。
 
-![List name](images/list-name-annotated.png)
+![清單名稱](images/list-name-annotated.png)
 
-+ Once you have created the list, it will be displayed on the stage, or you can untick the list in the Scripts tab to hide it.
++ 建立清單後，這個清單會顯示在舞台上；你也可以取消勾選該清單以將其隱藏。
 
-![List show/hide](images/list-show-hide-annotated.png)
+![清單顯示/隱藏](images/list-show-hide-annotated.png)
 
-+ Click the `+` at the bottom of the list to add items, and click the cross next to an item to delete it.
++ 點擊圖示 `+` 可以添加清單項目，想移除的話就點擊項目旁邊的叉號。
 
-![List show/hide](images/list-add-delete-annotated.png)
+![清單顯示/隱藏](images/list-add-delete-annotated.png)
 
-+ New blocks will appear and allow you to use your new list in your project.
++ 接下來就可以利用新出現的積木，在專案中使用你的新清單。
 
-![List blocks](images/list-blocks.png)
+![清單相關積木](images/list-blocks.png)
