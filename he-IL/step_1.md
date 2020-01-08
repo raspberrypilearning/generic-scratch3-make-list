@@ -1,19 +1,19 @@
-+ Click on **Make a List** under **Variables**.
++ לחצו על **צור רשימה** תחת **משתנים**.
 
-![Make a list](images/make-a-list-annotated.png)
+![צרו רשימה](images/make-a-list-annotated.png)
 
-+ Type in the name of your list. You can choose whether you would like your list to be available to all sprites, or to only a specific sprite. Click **OK**.
++ הקלידו את שם הרשימה שלכם. אתם יכולים לבחור אם הרשימה שלכם תהיה זמינה לכל הדמויות, או רק לדמות ספציפית. לחצו על **אישור**.
 
-![List name](images/list-name-annotated.png)
+![שם הרשימה](images/list-name-annotated.png)
 
-+ Once you have created the list, it will be displayed on the stage, or you can untick the list in the Scripts tab to hide it.
++ לאחר שיצרתם את הרשימה, היא תוצג על הבמה, אתם יכולים לבטל את הסימון של הרשימה בכרטיסיית הסקריפטים כדי להסתיר אותה.
 
-![List show/hide](images/list-show-hide-annotated.png)
+![הצג/הסתר רשימה](images/list-show-hide-annotated.png)
 
-+ Click the `+` at the bottom of the list to add items, and click the cross next to an item to delete it.
++ לחצו על `+` בחלק התחתון של הרשימה כדי להוסיף פריטים, לחצו על ה-X ליד פריט כדי למחוק אותו.
 
-![List show/hide](images/list-add-delete-annotated.png)
+![הצג/הסתר רשימה](images/list-add-delete-annotated.png)
 
-+ New blocks will appear and allow you to use your new list in your project.
++ בלוקים חדשים יופיעו ויאפשרו לכם להשתמש ברשימה החדשה בפרוייקט.
 
-![List blocks](images/list-blocks.png)
+![בלוקים ששייכים לרשימות](images/list-blocks.png)
