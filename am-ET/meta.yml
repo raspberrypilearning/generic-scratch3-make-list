@@ -1,7 +1,7 @@
 ---
-title: Створити список
+title: ዝርዝር ይስሩ
 hero_image: images/banner.png
-description: Створити новий список
+description: አዲስ ዝርዝር ይፍጠሩ
 theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 1 #possible values: 1, 2 or 3
 listed: false
@@ -12,4 +12,4 @@ interests: ""
 technologies: "scratch"
 site_areas:
 steps:
-  - title: Створити список
+  - title: ዝርዝር ይስሩ
