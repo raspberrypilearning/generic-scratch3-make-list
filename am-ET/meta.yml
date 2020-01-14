@@ -2,14 +2,14 @@
 title: ዝርዝር ይስሩ
 hero_image: images / banner.png
 description: አዲስ ዝርዝር ይፍጠሩ
-theme: ቀይ #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 1 #possible values: 1, 2 or 3
 listed: false
 ingredient: true
 copyedit: true
-curriculum: ፈጣሪ, ዲዛይን-0, ፕሮግራሚንግ-0, ፊዚ-ኮም-0, ማምረት-0, ማህበረሰብ-0
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
 interests: ""
-technologies: "ስክራች"
+technologies: "scratch"
 site_areas:
 steps:
   - 
