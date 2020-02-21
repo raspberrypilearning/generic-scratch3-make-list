@@ -1,19 +1,19 @@
-+ Click on **Make a List** under **Variables**.
++ **へんすう**にある**リストをつくる**をクリックします。
 
-![Make a list](images/make-a-list-annotated.png)
+![リストを作る](images/make-a-list-annotated.png)
 
-+ Type in the name of your list. You can choose whether you would like your list to be available to all sprites, or to only a specific sprite. Click **OK**.
++ リストの名前を入力しましょう。 リストをすべてのスプライトで使えるようにするか、または一つのスプライトのみで使えるようにするかをえらぶことができます。 **OK**をクリックします。
 
-![List name](images/list-name-annotated.png)
+![リスト名](images/list-name-annotated.png)
 
-+ 作ったリストはステージに表示されますが、「スクリプト」タブからリストの選択 (せんたく) を解除(かいじょ) してかくすことができます。
++ 作ったリストはステージに表示されますが、「へんすう」タブからリストのチェックを外してかくすこともできます。
 
-![List show/hide](images/list-show-hide-annotated.png)
+![リスト表示/非表示](images/list-show-hide-annotated.png)
 
 + リストの一番下にある `+` をクリックして項目 (こうもく) を追加します。削除 (さくじょ) するには、項目の横にある×マークをクリックします。
 
-![List show/hide](images/list-add-delete-annotated.png)
+![リスト表示/非表示](images/list-add-delete-annotated.png)
 
-+ 新しいブロックが表示され、新しいリストをプロジェクトで使用できるようになります。
++ 新しいブロックが表示され、新しいリストをプロジェクトで使えるようになります。
 
-![List blocks](images/list-blocks.png)
+![リストブロック](images/list-blocks.png)
