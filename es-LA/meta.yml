@@ -1,8 +1,8 @@
 ---
-title: Make a list
+title: Crear una lista
 hero_image: images/banner.png
-description: Make a new list
-theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+description: Crear una lista nueva
+theme: rojo #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 1 #possible values: 1, 2 or 3
 listed: false
 ingredient: true
@@ -13,4 +13,4 @@ technologies: "scratch"
 site_areas:
 steps:
   - 
-    title: Make a list
+    title: Crear una lista
