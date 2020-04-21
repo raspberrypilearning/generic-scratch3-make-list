@@ -8,12 +8,12 @@
 
 + Kapag nagawa mo na yung listahan, makikita mo ito sa stage, o pwede mo alisin ang listahan sa Scripts tab upang itago ito.
 
-![List show/hide](images/list-show-hide-annotated.png)
+![Ipakita / Itago ang listahan](images/list-show-hide-annotated.png)
 
 + I-click ang `+` sa ibaba ng list upang magdagdag ng mga items, at i-click ang krus sa tabi ng isang item upang tanggalin ito.
 
-![List show/hide](images/list-add-delete-annotated.png)
+![Ipakita / Itago ang listahan](images/list-add-delete-annotated.png)
 
-+ New blocks will appear and allow you to use your new list in your project.
++ Ang mga bagong blocks na lalabas ay ginagamit upang ayusin ang bagong listahan sa iyong proyekto.
 
-![List blocks](images/list-blocks.png)
+![Listahan ng mga blocks](images/list-blocks.png)
