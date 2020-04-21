@@ -1,16 +1,16 @@
-+ Click on **Make a List** under **Variables**.
++ Mag-click sa **Gumawa ng Listahan** ilalim ng **variable**.
 
-![Make a list](images/make-a-list-annotated.png)
+![Gumawa ng listahan](images/make-a-list-annotated.png)
 
-+ Type in the name of your list. You can choose whether you would like your list to be available to all sprites, or to only a specific sprite. Click **OK**.
++ I-type ang pangalan ng iyong listahan. Maari kang pumili kung gusto mo maging available ang iyong list sa lahat ng sprites o para lamang sa isang espesipiko na sprite. I-click ang **OK**.
 
-![List name](images/list-name-annotated.png)
+![Pangalan ng listahan](images/list-name-annotated.png)
 
-+ Once you have created the list, it will be displayed on the stage, or you can untick the list in the Scripts tab to hide it.
++ Kapag nagawa mo na yung listahan, makikita mo ito sa stage, o pwede mo alisin ang listahan sa Scripts tab upang itago ito.
 
 ![List show/hide](images/list-show-hide-annotated.png)
 
-+ Click the `+` at the bottom of the list to add items, and click the cross next to an item to delete it.
++ I-click ang `+` sa ibaba ng list upang magdagdag ng mga items, at i-click ang krus sa tabi ng isang item upang tanggalin ito.
 
 ![List show/hide](images/list-add-delete-annotated.png)
 
