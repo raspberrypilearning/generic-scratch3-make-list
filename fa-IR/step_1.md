@@ -1,19 +1,13 @@
-+ بر روی **Make a List** زیر **Variables** کلیک کنید.
+جالبه که بهترین امتیاز رو در یک بازی دنبال کنید.
 
-![یک لیست ایجاد کنید](images/make-a-list-annotated.png)
+فرض کنید شما یک متغیر با نام `score`{: class = "blockdata"} دارید که در ابتدای هر بازی صفر می‌شود.
 
-+ نام لیست خود را وارد کنید. شما می‌توانید انتخاب کنید که آیا می‌خواهید لیست شما برای تمام شبح‌ها موجود باشد یا فقط برای یک شبح خاص در دسترس باشد. روی ** OK** کلیک کنید.
+یک متغیر دیگر با نام `high score`{: class = "blockdata"} اضافه کنید.
 
-![نام لیست](images/list-name-annotated.png)
+![variables menu with Make a Variable highlighted](images/make-variable-annotated.png)
 
-+ هنگامی که لیست را ایجاد کردید، در طبقه نمایش داده می‌شود، یا می‌توانید با برداشتن علامت آن در برگه اسکریپت ها،آن را پنهان کنید.
+![new variable popup box with high score as the variable name](images/make-high-score-variable.png)
 
-![نمایش/پنهان کردن لیست](images/list-show-hide-annotated.png)
+در پایان بازی (یا هر زمانی که می‌خواهید امتیاز بالا را به‌روز رسانی کنید)، باید بررسی کنید که آیا `high score` جدیدی دارید.
 
-+ در پایین لیست برای اضافه کردن موارد، بر روی `+` کلیک کنید و برای حذف یک مورد، بر روی ضربدر کنار آن کلیک کنید.
-
-![نمایش/پنهان کردن لیست](images/list-add-delete-annotated.png)
-
-+ بلوک‌های جدید ظاهر می‌شود و به شما اجازه می‌دهد که از لیست جدید خود در پروژه‌ی خود استفاده کنید.
-
-![بلوک‌های لیست](images/list-blocks.png)
+![code blocks require to make high score equal score](images/check-for-high-score.png)
