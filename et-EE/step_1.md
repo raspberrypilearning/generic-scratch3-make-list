@@ -1,19 +1,13 @@
-+ Klõpsa **Loo loend** **Muutujate** all.
+É divertido acompanhar a pontuação máxima em um jogo.
 
-![Loo nimekiri](images/make-a-list-annotated.png)
+Digamos que você tenha uma variável chamada `pontuação`{:class="blockdata"}, que é definida como zero no início de cada jogo.
 
-+ Sisesta oma loendi nimi. Saad valida, kas soovid, et su loend oleks kõigile spraitidele või ainult konkreetsele spraidile kättesaadav. Klõpsa **OK**.
+Crie uma nova variável chamada `pontuação máxima`{:class="blockdata"}.
 
-![Loendi nimi](images/list-name-annotated.png)
+![menu de variáveis com Criar uma Variável destacada](images/make-variable-annotated.png)
 
-+ Kui oled muutuja loonud, kuvatakse see Laval, aga saad selle peitmiseks vahekaardil Skriptid muutuja eest linnukese ära võtta.
+![caixa pop-up de nova variável com pontuação máxima como nome da variável](images/make-high-score-variable.png)
 
-![Loendi näitamine/peitmine](images/list-show-hide-annotated.png)
+No final do jogo (ou sempre que quiser atualizar a pontuação máxima), você precisará verificar se a `pontuação máxima` foi ultrapassada.
 
-+ Elementide lisamiseks klõpsa loendi allosas olevale `+` ja selle kustutamiseks klõpsake elemendi kõrval olevale ristile.
-
-![Loendi näitamine/peitmine](images/list-add-delete-annotated.png)
-
-+ Ilmuvad uued plokid ja nii saad kasutada oma uut loendit oma projektis.
-
-![Loendiplokid](images/list-blocks.png)
+![os blocos de código exigem que a pontuação máxima seja igual à pontuação](images/check-for-high-score.png)
