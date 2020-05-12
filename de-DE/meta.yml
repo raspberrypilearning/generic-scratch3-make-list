@@ -2,8 +2,8 @@
 title: Erstelle eine Liste
 hero_image: images/banner.png
 description: Erstelle eine neue Liste
-theme: red
-duration: 1
+theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+duration: 1 #possible values: 1, 2 or 3
 listed: false
 ingredient: true
 copyedit: true
@@ -12,5 +12,4 @@ interests: ""
 technologies: "scratch"
 site_areas:
 steps:
-  - 
-    title: Erstelle eine Liste
+  - title: Erstelle eine Liste

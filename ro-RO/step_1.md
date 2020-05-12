@@ -1,4 +1,4 @@
-+ Apasă pe **Creează o Listă** sub **Variabile**.
++ Apasă pe **Creează o listă** sub **Variabile**.
 
 ![Creează o listă](images/make-a-list-annotated.png)
 
@@ -10,7 +10,7 @@
 
 ![Afișează/ascunde lista](images/list-show-hide-annotated.png)
 
-+ Dă clic pe `+`, în partea de jos a listei, pentru a adăuga elemente și dă clic pe cruciulița de lângă un element pentru a-l șterge.
++ Dă click pe `+` în partea de jos a listei pentru a adăuga elemente și dă click pe cruciulița de lângă un element pentru a-l șterge.
 
 ![Afișează/ascunde lista](images/list-add-delete-annotated.png)
 
