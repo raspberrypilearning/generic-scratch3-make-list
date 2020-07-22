@@ -1,13 +1,19 @@
-جالبه که بهترین امتیاز رو در یک بازی دنبال کنید.
++ Klik pada **Buat Sebuah Daftar** di bagian **Variabel**.
 
-فرض کنید شما یک متغیر با نام `score`{: class = "blockdata"} دارید که در ابتدای هر بازی صفر می‌شود.
+![Membuat sebuah daftar](images/make-a-list-annotated.png)
 
-یک متغیر دیگر با نام `high score`{: class = "blockdata"} اضافه کنید.
++ Tuliskan nama daftar kamu. Silahkan kamu pilih, apakah daftar kamu bisa di akses di semua sprite atau hanya di sprite ini saja. Klik **OK**.
 
-![variables menu with Make a Variable highlighted](images/make-variable-annotated.png)
+![List name](images/list-name-annotated.png)
 
-![new variable popup box with high score as the variable name](images/make-high-score-variable.png)
++ Setelah Kamu membuat daftar, daftar tersebut akan ditampilkan pada Stage, atau Kamu bisa menghapus centang daftar di tab Scripts untuk menyembunyikannya.
 
-در پایان بازی (یا هر زمانی که می‌خواهید امتیاز بالا را به‌روز رسانی کنید)، باید بررسی کنید که آیا `high score` جدیدی دارید.
+![Tampilkan / sembunyikan daftar](images/list-show-hide-annotated.png)
 
-![code blocks require to make high score equal score](images/check-for-high-score.png)
++ Klik `+` di bagian bawah daftar untuk menambahkan item, dan klik tanda silang di sebelah item untuk menghapusnya.
+
+![List show/hide](images/list-add-delete-annotated.png)
+
++ Blok baru akan muncul dan memungkinkan Kamu untuk menggunakan daftar baru dalam proyek mu.
+
+![List blocks](images/list-blocks.png)
