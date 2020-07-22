@@ -1,19 +1,19 @@
-+ Click on **Make a List** under **Variables**.
++ **மாறிகளின்(Variables)** கீழே உள்ள **ஒரு பட்டியலை உருவாக்கு(Make a List)** என்பதைக் கிளிக் செய்க.
 
 ![Make a list](images/make-a-list-annotated.png)
 
-+ Type in the name of your list. You can choose whether you would like your list to be available to all sprites, or to only a specific sprite. Click **OK**.
++ உங்கள் பட்டியலின் பெயரைத் தட்டச்சு செய்க. உங்கள் பட்டியல் அனைத்து ஸ்ப்ரைட்டிற்கும்(sprite) பொருந்துமா அல்லது ஒரு குறிப்பிட்ட ஸ்ப்ரைட்டிற்கு மட்டுமே பொருந்த வேண்டுமென விரும்புகிறீர்களா என்பதை நீங்கள் தேர்வு செய்யலாம். **OK** -ஐக் கிளிக் செய்யவும்.
 
 ![List name](images/list-name-annotated.png)
 
-+ Once you have created the list, it will be displayed on the stage, or you can untick the list in the Scripts tab to hide it.
++ பட்டியலை உருவாக்கியவுடன், அது மேடையில் காண்பிக்கப்படும் அல்லது அதை மறைக்க ஸ்கிரிப்டுகள் தாவலில் பட்டியலை நீக்கலாம்.
 
 ![List show/hide](images/list-show-hide-annotated.png)
 
-+ Click the `+` at the bottom of the list to add items, and click the cross next to an item to delete it.
++ உருப்படிகளை சேர்ப்பதற்கு பட்டியலின் அடிப்பகுதியில் உள்ள `+` -ஐக் கிளிக் செய்யவும், ஏதேனும் ஒரு உருப்படியை நீக்க, அதற்கு அருகில் உள்ள குறுக்கு(x) குறியீட்டைக் கிளிக் செய்யவும்.
 
 ![List show/hide](images/list-add-delete-annotated.png)
 
-+ New blocks will appear and allow you to use your new list in your project.
++ புதிய தொகுதிகள் தோன்றும் மற்றும் உங்கள் புதிய பட்டியலை உங்கள் திட்டத்தில் பயன்படுத்த அனுமதிக்கும்.
 
 ![List blocks](images/list-blocks.png)
