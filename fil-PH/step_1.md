@@ -1,4 +1,4 @@
-+ Mag-click sa **Gumawa ng Listahan** ilalim ng **variable**.
++ I-click ang **Make a list** sa ilalim ng **Variables**.
 
 ![Gumawa ng listahan](images/make-a-list-annotated.png)
 
