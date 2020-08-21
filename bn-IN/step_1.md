@@ -1,4 +1,4 @@
-+ Click on **Make a List** under **Variables**.
++ **Make a List** under **Variables**. ক্লিক করুন.
 
 ![Make a list](images/make-a-list-annotated.png)
 
