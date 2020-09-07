@@ -2,12 +2,12 @@
 title: ஒரு பட்டியலை உருவாக்கவும்
 hero_image: images/banner.png
 description: ஒரு புதிய பட்டியலை உருவாக்கவும்
-theme: சிவப்பு #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
 duration: 1 #possible values: 1, 2 or 3
 listed: false
 ingredient: true
 copyedit: true
-curriculum: உருவாக்கியவர், வடிவமைப்பு -0, நிரலாக்க-0, உடல்-கம்ப் -0, உற்பத்தி -0, சமூகம் -0
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
 interests: ""
 technologies: "scratch"
 site_areas:
