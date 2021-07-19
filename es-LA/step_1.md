@@ -2,11 +2,11 @@
 
 ![Crear una lista](images/make-a-list-annotated.png)
 
-+ Escribe el nombre de tu variable. Puedes elegir si quieres que tu variable esté disponible para todos los objetos o solo para este objeto. Click **OK**.
++ Escribe el nombre de tu variable. Puedes elegir si quieres que tu variable esté disponible para todos los objetos o solo para este objeto. Click **De acuerdo**.
 
 ![Nombre de la lista](images/list-name-annotated.png)
 
-+ Una vez que hayas creado la lista, esta se mostrará en el escenario, pero puedes ocultarla desmarcándola en la pestaña Programas.
++ Una vez que hayas creado la lista, esta se mostrará en el escenario, pero puedes ocultarla desmarcándola en la pestaña Código.
 
 ![Mostrar / ocultar la lista](images/list-show-hide-annotated.png)
 
