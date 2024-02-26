@@ -1,19 +1,19 @@
-+ Click on **Make a List** under **Variables**.
++ Klikněte na **Vytvořte seznam** pod **proměnnými**.
 
-![Make a list](images/make-a-list-annotated.png)
+![Udělat seznam](images/make-a-list-annotated.png)
 
-+ Type in the name of your list. You can choose whether you would like your list to be available to all sprites, or to only a specific sprite. Click **OK**.
++ Zadejte název seznamu. Můžete si vybrat, zda chcete, aby byl váš seznam dostupný všem skřítkům nebo pouze určitému sprite. Klepněte na **OK**.
 
-![List name](images/list-name-annotated.png)
+![Název seznamu](images/list-name-annotated.png)
 
-+ Once you have created the list, it will be displayed on the stage, or you can untick the list in the Scripts tab to hide it.
++ Jakmile seznam vytvoříte, zobrazí se na jevišti, nebo můžete zrušit seznam na kartě Skripty, aby se skryl.
 
-![List show/hide](images/list-show-hide-annotated.png)
+![Zobrazit / skrýt seznam](images/list-show-hide-annotated.png)
 
-+ Click the `+` at the bottom of the list to add items, and click the cross next to an item to delete it.
++ Klepnutím na tlačítko `+` ve spodní části seznamu přidáte položky a kliknutím na křížku vedle položky jej odstraníte.
 
-![List show/hide](images/list-add-delete-annotated.png)
+![Zobrazit / skrýt seznam](images/list-add-delete-annotated.png)
 
-+ New blocks will appear and allow you to use your new list in your project.
++ Zobrazí se nové bloky a umožní vám nový projekt použít ve svém projektu.
 
-![List blocks](images/list-blocks.png)
+![Seznam bloků](images/list-blocks.png)
